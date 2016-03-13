@@ -1,0 +1,4 @@
+Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=CAN|SchDesignator=CAN|FileName=CAN_ChaseCar.SchDoc|SymbolType=Normal|RawFileName=CAN_ChaseCar.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=LPC_Rep|SchDesignator=LPC_Rep|FileName=LPC_Rep.SchDoc|SymbolType=Normal|RawFileName=LPC_Rep.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=USBserial|SchDesignator=USBserial|FileName=USBserial.SchDoc|SymbolType=Normal|RawFileName=USBserial.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=TopLevel.SchDoc
